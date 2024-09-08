@@ -28,13 +28,6 @@
 
 ---
 
-## 🔨 Projects
-### 🟢 **Employee Salary Dashboard**
-<p>
-  <img src="https://via.placeholder.com/500x300.png" alt="Salary Dashboard Image" width="400">
-</p>
-- A dashboard created using Excel to analyze employee salary data. Includes dynamic charts, pivot tables, and KPIs for better decision-making.  
-  [View Project Repository](https://github.com/Modinat3/Salary-Dashboard)
 
 ---
 
